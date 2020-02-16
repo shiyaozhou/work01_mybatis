@@ -1,0 +1,14 @@
+Logging initialized using 'class org.apache.ibatis.logging.log4j.Log4jImpl' adapter.
+PooledDataSource forcefully closed/removed all connections.
+PooledDataSource forcefully closed/removed all connections.
+PooledDataSource forcefully closed/removed all connections.
+PooledDataSource forcefully closed/removed all connections.
+Opening JDBC Connection
+Created connection 603650290.
+Setting autocommit to false on JDBC Connection [com.mysql.jdbc.JDBC4Connection@23faf8f2]
+==>  Preparing: select * from user ; 
+==> Parameters: 
+<==      Total: 6
+Resetting autocommit to true on JDBC Connection [com.mysql.jdbc.JDBC4Connection@23faf8f2]
+Closing JDBC Connection [com.mysql.jdbc.JDBC4Connection@23faf8f2]
+Returned connection 603650290 to pool.
